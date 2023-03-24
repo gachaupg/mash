@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "News",
-    "slug": "yt-tech-news-app",
+    "name": "News App",
+    "slug": "tech-news-app",
+    "description":"News app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/restaurants.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
